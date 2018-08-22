@@ -1,2 +1,2 @@
 # Back-to-School-with-Lynda
-A collection of JavaScript for processing Lynda courses
+A collection of AutoIt & JavaScript for processing Lynda courses
